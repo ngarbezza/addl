@@ -1,0 +1,4 @@
+tests de letras proposicionales
+test005UnaConjuncionNoEsUnaLetraProposicional
+
+	self deny: pyq esLetraProposicional

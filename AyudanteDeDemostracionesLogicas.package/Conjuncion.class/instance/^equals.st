@@ -1,4 +1,6 @@
 comparacion
 = otraFormula
 
-	^ formulaA = otraFormula formulaA and: [ formulaB = otraFormula formulaB ]
+	^ otraFormula esConjuncion
+		and: [ formulaA = otraFormula formulaA
+			and: [ formulaB = otraFormula formulaB ] ]

@@ -1,0 +1,4 @@
+tests de letras proposicionales
+test006UnaDisyuncionNoEsUnaLetraProposicional
+
+	self deny: poq esLetraProposicional

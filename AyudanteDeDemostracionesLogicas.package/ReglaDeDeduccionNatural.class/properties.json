@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"formulaA",
-		"formulaB" ],
-	"name" : "IntroduccionDeConjuncion",
+		 ],
+	"name" : "ReglaDeDeduccionNatural",
 	"pools" : [
 		 ],
-	"super" : "ReglaDeDeduccionNatural",
+	"super" : "Object",
 	"type" : "normal" }

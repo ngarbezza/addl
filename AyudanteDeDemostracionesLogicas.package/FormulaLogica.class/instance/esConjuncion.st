@@ -1,0 +1,4 @@
+infos
+esConjuncion
+
+	^ false

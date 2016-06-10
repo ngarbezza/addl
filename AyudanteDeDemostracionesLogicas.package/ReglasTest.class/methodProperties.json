@@ -4,7 +4,11 @@
 	"instance" : {
 		"test001DadaUnaEliminacionDeConjuncionDePyQPuedoSeguirP" : "NahuelGarbezza 6/10/2016 15:32",
 		"test001DadaUnaIntroduccionDeConjuncionDePyQEntoncesPuedoSeguirPyQ" : "NahuelGarbezza 6/10/2016 15:32",
+		"test001DadaUnaIntroduccionDeDisyuncionBasadaEnPEntoncesPuedoSeguirPoQ" : "NahuelGarbezza 6/10/2016 16:01",
 		"test002DadaUnaEliminacionDeConjuncionDePyQNoPuedoSeguirR" : "NahuelGarbezza 6/10/2016 15:32",
 		"test002DadaUnaIntroduccionDeConjuncionDePyQEntoncesNoPuedoSeguirPyR" : "NahuelGarbezza 6/10/2016 15:35",
+		"test002DadaUnaIntroduccionDeDisyuncionBasadaEnPEntoncesNoPuedoSeguirQ" : "NahuelGarbezza 6/10/2016 16:02",
 		"test003DadaUnaEliminacionDeConjuncionDePyQPuedoSeguirQ" : "NahuelGarbezza 6/10/2016 15:33",
-		"test003DadaUnaIntroduccionDeConjuncionDePyQEntoncesNoPuedoSeguirP" : "NahuelGarbezza 6/10/2016 15:35" } }
+		"test003DadaUnaIntroduccionDeConjuncionDePyQEntoncesNoPuedoSeguirP" : "NahuelGarbezza 6/10/2016 15:35",
+		"test003DadaUnaIntroduccionDeDisyuncionBasadaEnPEntoncesPuedoSeguirQoP" : "NahuelGarbezza 6/10/2016 16:13",
+		"test004DadaUnaIntroduccionDeDisyuncionBasadaEnPEntoncesNoPuedoSeguirQoR" : "NahuelGarbezza 6/10/2016 16:13" } }
