@@ -1,0 +1,14 @@
+{
+	"category" : "AyudanteDeDemostracionesLogicas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"formula" ],
+	"name" : "EliminacionDeConjuncion",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

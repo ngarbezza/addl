@@ -1,0 +1,15 @@
+{
+	"category" : "AyudanteDeDemostracionesLogicas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"formulaA",
+		"formulaB" ],
+	"name" : "Conjuncion",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

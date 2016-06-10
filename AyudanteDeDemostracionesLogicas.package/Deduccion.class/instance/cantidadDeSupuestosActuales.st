@@ -1,0 +1,4 @@
+supuestos
+cantidadDeSupuestosActuales
+
+	^ 0
