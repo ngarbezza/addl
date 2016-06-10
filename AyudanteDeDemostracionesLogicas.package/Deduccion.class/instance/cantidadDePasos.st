@@ -1,0 +1,4 @@
+pasos
+cantidadDePasos
+
+	^ 0

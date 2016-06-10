@@ -1,0 +1,14 @@
+{
+	"category" : "AyudanteDeDemostracionesLogicas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Deduccion",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
