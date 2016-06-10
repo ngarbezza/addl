@@ -1,5 +1,5 @@
 as yet unclassified
-test005DadaUnaDeduccionQueParteDeUnaPremisaPyQEntoncesNoPuedoExtraerRPorReglaDeEliminacion
+test006DadaUnaDeduccionQueParteDeUnaPremisaPyQEntoncesPuedoExtraerQPorReglaDeEliminacion
 
 	| deduccion premisas pyq eliminacion |
 	pyq := Conjuncion entre: #p y: #q.
@@ -7,4 +7,4 @@ test005DadaUnaDeduccionQueParteDeUnaPremisaPyQEntoncesNoPuedoExtraerRPorReglaDeE
 	deduccion := Deduccion partiendoDePremisas: premisas.
 	eliminacion := EliminacionDeConjuncion basadaEn: pyq.
 	
-	self deny: (deduccion puedoSeguir: #r aplicando: eliminacion).
+	self assert: (deduccion puedoSeguir: #q aplicando: eliminacion)

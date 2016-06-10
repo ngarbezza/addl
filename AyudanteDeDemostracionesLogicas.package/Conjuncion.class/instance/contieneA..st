@@ -1,4 +1,4 @@
-as yet unclassified
+evaluacion
 contieneA: unaFormula
 
 	^ formulaA = unaFormula or: [ formulaB = unaFormula ]

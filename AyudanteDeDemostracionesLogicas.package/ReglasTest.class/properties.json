@@ -1,0 +1,14 @@
+{
+	"category" : "AyudanteDeDemostracionesLogicas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ReglasTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

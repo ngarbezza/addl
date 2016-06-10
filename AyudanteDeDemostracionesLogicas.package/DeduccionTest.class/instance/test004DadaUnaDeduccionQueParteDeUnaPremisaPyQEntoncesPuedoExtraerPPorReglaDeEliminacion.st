@@ -5,6 +5,6 @@ test004DadaUnaDeduccionQueParteDeUnaPremisaPyQEntoncesPuedoExtraerPPorReglaDeEli
 	pyq := Conjuncion entre: #p y: #q.
 	premisas := Set with: pyq.
 	deduccion := Deduccion partiendoDePremisas: premisas.
-	eliminacion := EliminacionDeConjuncion basadaEn: pyq de: deduccion.
+	eliminacion := EliminacionDeConjuncion basadaEn: pyq.
 	
 	self assert: (deduccion puedoSeguir: #p aplicando: eliminacion).

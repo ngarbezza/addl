@@ -1,4 +1,4 @@
 creacion de instancias
-basadaEn: unaFormula de: unaDeduccion
+basadaEn: unaFormula
 
 	^ self new inicializarConFormula: unaFormula
