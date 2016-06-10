@@ -6,10 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"formulaA",
-		"formulaB" ],
-	"name" : "Conjuncion",
+		"p",
+		"q",
+		"r",
+		"pyq" ],
+	"name" : "AyudanteDeDemostracionesTest",
 	"pools" : [
 		 ],
-	"super" : "FormulaLogica",
+	"super" : "TestCase",
 	"type" : "normal" }

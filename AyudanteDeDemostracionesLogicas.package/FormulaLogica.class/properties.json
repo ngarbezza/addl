@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"formulaA",
-		"formulaB" ],
-	"name" : "Conjuncion",
+		 ],
+	"name" : "FormulaLogica",
 	"pools" : [
 		 ],
-	"super" : "FormulaLogica",
+	"super" : "Object",
 	"type" : "normal" }

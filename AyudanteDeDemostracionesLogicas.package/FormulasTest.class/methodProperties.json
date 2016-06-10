@@ -2,8 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "NahuelGarbezza 6/10/2016 15:31",
 		"test001DadaUnaConjuncionDePyQEntoncesPEsParteDeElla" : "NahuelGarbezza 6/10/2016 15:31",
+		"test001LaLetraProposicionalPEsIgualALaLetraProposicionalP" : "NahuelGarbezza 6/10/2016 15:43",
 		"test002DadaUnaConjuncionDePyQEntoncesRNoEsParteDeElla" : "NahuelGarbezza 6/10/2016 15:31",
+		"test002LaLetraProposicionalPNoEsIgualALaLetraProposicionalQ" : "NahuelGarbezza 6/10/2016 15:50",
 		"test003DadaUnaConjuncionDePyQEntoncesQEsParteDeElla" : "NahuelGarbezza 6/10/2016 15:32",
+		"test003LaLetraProposicionalPNoEsIgualALaConjuncionPyQ" : "NahuelGarbezza 6/10/2016 15:50",
 		"test004DosConjuncionesSonIgualesCuandoLasFormulasQueLaComponenLoSon" : "NahuelGarbezza 6/10/2016 15:30" } }

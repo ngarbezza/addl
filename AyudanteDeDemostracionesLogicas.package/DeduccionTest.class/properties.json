@@ -10,5 +10,5 @@
 	"name" : "DeduccionTest",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "AyudanteDeDemostracionesTest",
 	"type" : "normal" }

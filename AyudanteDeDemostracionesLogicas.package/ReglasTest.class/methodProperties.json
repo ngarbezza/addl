@@ -2,10 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "NahuelGarbezza 6/10/2016 15:32",
 		"test001DadaUnaEliminacionDeConjuncionDePyQPuedoSeguirP" : "NahuelGarbezza 6/10/2016 15:32",
 		"test001DadaUnaIntroduccionDeConjuncionDePyQEntoncesPuedoSeguirPyQ" : "NahuelGarbezza 6/10/2016 15:32",
 		"test002DadaUnaEliminacionDeConjuncionDePyQNoPuedoSeguirR" : "NahuelGarbezza 6/10/2016 15:32",
-		"test002DadaUnaIntroduccionDeConjuncionDePyQEntoncesNoPuedoSeguirPyR" : "NahuelGarbezza 6/10/2016 15:24",
+		"test002DadaUnaIntroduccionDeConjuncionDePyQEntoncesNoPuedoSeguirPyR" : "NahuelGarbezza 6/10/2016 15:35",
 		"test003DadaUnaEliminacionDeConjuncionDePyQPuedoSeguirQ" : "NahuelGarbezza 6/10/2016 15:33",
-		"test003DadaUnaIntroduccionDeConjuncionDePyQEntoncesNoPuedoSeguirP" : "NahuelGarbezza 6/10/2016 15:33" } }
+		"test003DadaUnaIntroduccionDeConjuncionDePyQEntoncesNoPuedoSeguirP" : "NahuelGarbezza 6/10/2016 15:35" } }

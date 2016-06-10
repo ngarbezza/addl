@@ -6,12 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"p",
-		"q",
-		"r",
-		"pyq" ],
+		 ],
 	"name" : "ReglasTest",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "AyudanteDeDemostracionesTest",
 	"type" : "normal" }

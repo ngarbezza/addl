@@ -3,8 +3,8 @@
 		 },
 	"instance" : {
 		"test001DadaUnaDeduccionQueNoParteDePremisasSuCantidadDePasosEsCero" : "NahuelGarbezza 6/10/2016 11:27",
-		"test002DadaUnaDeduccionQueParteDeDosPremisasSuCantidadDePasosEsDos" : "NahuelGarbezza 6/10/2016 12:15",
+		"test002DadaUnaDeduccionQueParteDeDosPremisasSuCantidadDePasosEsDos" : "NahuelGarbezza 6/10/2016 15:35",
 		"test003DadaUnaDeduccionQueNoParteDePremisasSuCantidadDeSupuestosActualesEsCero" : "NahuelGarbezza 6/10/2016 13:55",
-		"test004DadaUnaDeduccionQueParteDeUnaPremisaPyQEntoncesPuedoExtraerPPorReglaDeEliminacion" : "NahuelGarbezza 6/10/2016 15:16",
-		"test005DadaUnaDeduccionQueParteDeUnaPremisaPyQEntoncesNoPuedoExtraerRPorReglaDeEliminacion" : "NahuelGarbezza 6/10/2016 15:16",
-		"test006DadaUnaDeduccionQueParteDeUnaPremisaPyQEntoncesPuedoExtraerQPorReglaDeEliminacion" : "NahuelGarbezza 6/10/2016 15:16" } }
+		"test004DadaUnaDeduccionQueParteDeUnaPremisaPyQEntoncesPuedoExtraerPPorReglaDeEliminacion" : "NahuelGarbezza 6/10/2016 15:36",
+		"test005DadaUnaDeduccionQueParteDeUnaPremisaPyQEntoncesNoPuedoExtraerRPorReglaDeEliminacion" : "NahuelGarbezza 6/10/2016 15:36",
+		"test006DadaUnaDeduccionQueParteDeUnaPremisaPyQEntoncesPuedoExtraerQPorReglaDeEliminacion" : "NahuelGarbezza 6/10/2016 15:36" } }

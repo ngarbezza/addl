@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"nombre" ],
 	"name" : "LetraProposicional",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "FormulaLogica",
 	"type" : "normal" }

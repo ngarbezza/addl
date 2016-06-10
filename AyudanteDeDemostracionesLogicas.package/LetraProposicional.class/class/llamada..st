@@ -1,4 +1,4 @@
 creacion de instancias
 llamada: unNombre
 
-	^ self new
+	^ self new inicializarConNombre: unNombre
