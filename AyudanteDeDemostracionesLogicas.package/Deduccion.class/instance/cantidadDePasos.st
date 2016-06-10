@@ -1,4 +1,4 @@
 pasos
 cantidadDePasos
 
-	^ 0
+	^ premisas size

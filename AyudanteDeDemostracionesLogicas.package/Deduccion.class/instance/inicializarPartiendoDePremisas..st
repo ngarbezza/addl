@@ -1,0 +1,4 @@
+inicializacion
+inicializarPartiendoDePremisas: unaColeccionDePremisas
+
+	premisas := unaColeccionDePremisas

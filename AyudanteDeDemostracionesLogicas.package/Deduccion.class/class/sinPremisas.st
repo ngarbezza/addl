@@ -1,3 +1,4 @@
 creacion de instancias
 sinPremisas
-	^ self new
+
+	^ self partiendoDePremisas: Set new

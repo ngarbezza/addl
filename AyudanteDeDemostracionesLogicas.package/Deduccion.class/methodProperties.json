@@ -1,5 +1,7 @@
 {
 	"class" : {
-		"sinPremisas" : "NahuelGarbezza 6/10/2016 11:28" },
+		"partiendoDePremisas:" : "NahuelGarbezza 6/10/2016 12:16",
+		"sinPremisas" : "NahuelGarbezza 6/10/2016 12:17" },
 	"instance" : {
-		"cantidadDePasos" : "NahuelGarbezza 6/10/2016 11:28" } }
+		"cantidadDePasos" : "NahuelGarbezza 6/10/2016 12:17",
+		"inicializarPartiendoDePremisas:" : "NahuelGarbezza 6/10/2016 12:17" } }
