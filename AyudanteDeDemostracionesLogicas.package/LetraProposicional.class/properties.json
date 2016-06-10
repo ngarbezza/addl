@@ -6,12 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"p",
-		"q",
-		"r",
-		"pyq" ],
-	"name" : "ReglasTest",
+		 ],
+	"name" : "LetraProposicional",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "Object",
 	"type" : "normal" }

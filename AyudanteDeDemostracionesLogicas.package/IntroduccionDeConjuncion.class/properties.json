@@ -6,12 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"p",
-		"q",
-		"r",
-		"pyq" ],
-	"name" : "ReglasTest",
+		"formulaA",
+		"formulaB" ],
+	"name" : "IntroduccionDeConjuncion",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "Object",
 	"type" : "normal" }
